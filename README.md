@@ -47,3 +47,9 @@ Prevent requests without valid authentication headers.
 Add your own domain name and have it point to the running services (try adding a subdomain name to point to the processing server)
 > !NOTE: Domain names are not included in AWS’ free tier and will incur a cost.
 # Udagram_wunmi
+
+# Link to the deploy EB Instance
+http://image-filter-starter-code-dev-dev2.us-west-2.elasticbeanstalk.com/
+
+# Link to get a filtered Image
+http://image-filter-starter-code-dev-dev2.us-west-2.elasticbeanstalk.com/filteredimage?image_url=https://upload.wikimedia.org/wikipedia/commons/b/bd/Golden_tabby_and_white_kitten_n01.jpg
